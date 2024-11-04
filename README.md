@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G4LV40
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently creating ML and LLM's Models
 
 
 <!---
